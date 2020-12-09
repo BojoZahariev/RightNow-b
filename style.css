@@ -1,0 +1,15 @@
+.main {
+  background-color: bisque;
+  height: 100vh;
+  padding: 20px;
+}
+
+.frames {
+  border: 1px solid #222;
+  text-align: center;
+  width: 200px;
+}
+
+.middleRow {
+  height: 200px;
+}
