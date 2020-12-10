@@ -1,4 +1,4 @@
-jQuery(function($) {
+$(document).ready(function() {
   var time = 0;
 
   setInterval(function() {
