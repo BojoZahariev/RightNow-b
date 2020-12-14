@@ -3,11 +3,16 @@
   background-color: #cce2a3;
 }
 
+.mainTitle {
+  font-size: 50px;
+}
+
 .frames {
-  border: 1px solid #222;
+  border: 2px solid #6689a1;
   text-align: center;
   height: 200px;
-  background-color: #727d71;
+  background-color: #6689a1;
+  color: #222;
 }
 
 .textFrames {
